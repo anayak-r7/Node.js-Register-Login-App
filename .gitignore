@@ -50,6 +50,7 @@ typings/
 
 # Output of 'npm pack'
 *.tgz
+*.tar.gz
 
 # Yarn Integrity file
 .yarn-integrity
@@ -57,3 +58,6 @@ typings/
 # dotenv environment variables file
 .env
 
+# tCell
+tcell_agent.config
+tcell/
